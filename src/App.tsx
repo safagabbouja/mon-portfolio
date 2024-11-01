@@ -25,7 +25,7 @@ function App() {
     return (
         <div className="App">
             <header className="bg-blue-600 text-white text-center p-4">
-                <h1 className="text-3xl">Bienvenue sur mon Portfolio</h1>
+                <h1 className="text-3xl">Bienvenue sur mon Portfolio safff</h1>
                 <p>FullStack and IA Developer</p>
             </header>
 
