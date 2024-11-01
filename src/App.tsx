@@ -29,7 +29,7 @@ function App() {
                 <p>FullStack and IA Developer</p>
             </header>
 
-            <section className="container mx-auto mt-5">
+            <section className="container mx-auto mt-5"> 
                 <h2 className="text-2xl mb-4">Mes Projets</h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     {projets.map((projet, index) => (
